@@ -27,7 +27,7 @@ To avoid launching the app in this case, add the following in your config.xml fi
 `<preference name="AndroidLaunchMode" value="singleInstance"/>`
 
 #### To install
-Run `cordova plugin add https://github.com/fquirin/cordova-plugin-local-notifications.git --save --noregistery`
+Run `cordova plugin add https://github.com/lgh06/cordova-plugin-local-notifications.git --save --noregistery`
 
 ***
 
